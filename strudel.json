@@ -3,5 +3,7 @@
   "100bpm.cmaj": "c-maj/100bpm.cmaj.wav",
   "emaj-drone": "emaj/emaj-drone.wav",
   "break-samp": "break-sample/break-samp.wav",
+  "chordz": "emaj-gtrchrds/chordz.wav",
+  "chopz": "emaj-gtrchop/chopz.wav",
   "seesharpp": "seesharp/seesharpp.wav"
 }
