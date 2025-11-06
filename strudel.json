@@ -2,5 +2,6 @@
   "_base": "https://raw.githubusercontent.com/evilfemme/evil-samples/main/",
   "100bpm.cmaj": "c-maj/100bpm.cmaj.wav",
   "emaj-drone": "emaj/emaj-drone.wav",
+  "break-samp": "break-sample/break-samp.wav",
   "seesharpp": "seesharp/seesharpp.wav"
 }
